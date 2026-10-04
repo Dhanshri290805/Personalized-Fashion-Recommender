@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+pillow
+opencv-python
+joblib
+python-multipart
+pydantic

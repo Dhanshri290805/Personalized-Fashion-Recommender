@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+venv/
+__pycache__/
+.env
+*.pyc
+.idea/
+.vscode/
+dist/
+build/
+*.pkl

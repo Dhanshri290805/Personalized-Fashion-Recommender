@@ -1,0 +1,81 @@
+item_id,item_name,category,subcategory,color,style,occasion,season,gender,price,rating,image_path
+1,Classic Black T-Shirt,T-Shirt,Top,Black,Casual,College,All,Unisex,599,4.5,images/fashion/black_tshirt.png
+2,White Basic T-Shirt,T-Shirt,Top,White,Casual,College,All,Unisex,499,4.4,images/fashion/white_tshirt.png
+3,Navy Blue T-Shirt,T-Shirt,Top,Navy,Casual,College,All,Unisex,649,4.5,images/fashion/navy_tshirt.png
+4,Grey Round Neck T-Shirt,T-Shirt,Top,Grey,Casual,College,All,Unisex,549,4.3,images/fashion/grey_tshirt.png
+5,Red Graphic T-Shirt,T-Shirt,Top,Red,Casual,Party,All,Unisex,699,4.2,images/fashion/red_tshirt.png
+6,Beige Polo T-Shirt,Polo,Top,Beige,Casual,College,Summer,Men,899,4.5,images/fashion/beige_polo.png
+7,Black Polo T-Shirt,Polo,Top,Black,Casual,Office,All,Men,999,4.6,images/fashion/black_polo.png
+8,White Formal Shirt,Shirt,Top,White,Formal,Office,All,Men,1299,4.7,images/fashion/white_formal_shirt.png
+9,Black Formal Shirt,Shirt,Top,Black,Formal,Office,All,Men,1399,4.6,images/fashion/black_formal_shirt.png
+10,Blue Casual Shirt,Shirt,Top,Blue,Casual,College,All,Men,1199,4.5,images/fashion/blue_casual_shirt.png
+11,Light Blue Oxford Shirt,Shirt,Top,Light Blue,Formal,Office,All,Men,1499,4.7,images/fashion/oxford_shirt.png
+12,Beige Linen Shirt,Shirt,Top,Beige,Casual,Vacation,Summer,Men,1399,4.5,images/fashion/beige_linen.png
+13,Black Oversized Shirt,Shirt,Top,Black,Streetwear,Party,All,Unisex,1199,4.4,images/fashion/black_oversized.png
+14,Pink Casual Shirt,Shirt,Top,Pink,Casual,College,Summer,Women,1099,4.4,images/fashion/pink_shirt.png
+15,White Crop Top,Crop Top,Top,White,Casual,College,Summer,Women,699,4.3,images/fashion/white_crop_top.png
+16,Black Crop Top,Crop Top,Top,Black,Party,Party,All,Women,799,4.5,images/fashion/black_crop_top.png
+17,Blue Denim Jacket,Jacket,Outerwear,Blue,Casual,College,Winter,Unisex,1999,4.6,images/fashion/denim_jacket.png
+18,Black Leather Jacket,Jacket,Outerwear,Black,Party,Party,Winter,Unisex,2999,4.7,images/fashion/leather_jacket.png
+19,Grey Hoodie,Hoodie,Top,Grey,Casual,College,Winter,Unisex,1499,4.6,images/fashion/grey_hoodie.png
+20,Black Hoodie,Hoodie,Top,Black,Streetwear,College,Winter,Unisex,1599,4.7,images/fashion/black_hoodie.png
+21,Blue Slim Jeans,Jeans,Bottom,Blue,Casual,College,All,Unisex,1299,4.6,images/fashion/blue_jeans.png
+22,Black Slim Jeans,Jeans,Bottom,Black,Casual,College,All,Unisex,1399,4.7,images/fashion/black_jeans.png
+23,Grey Straight Jeans,Jeans,Bottom,Grey,Casual,College,All,Unisex,1349,4.4,images/fashion/grey_jeans.png
+24,Dark Blue Regular Jeans,Jeans,Bottom,Dark Blue,Casual,College,All,Men,1199,4.4,images/fashion/dark_blue_jeans.png
+25,Black Formal Trousers,Trousers,Bottom,Black,Formal,Office,All,Men,1499,4.7,images/fashion/black_trousers.png
+26,Navy Formal Trousers,Trousers,Bottom,Navy,Formal,Office,All,Men,1599,4.6,images/fashion/navy_trousers.png
+27,Grey Formal Trousers,Trousers,Bottom,Grey,Formal,Office,All,Men,1499,4.5,images/fashion/grey_trousers.png
+28,Beige Chinos,Chinos,Bottom,Beige,Casual,Office,Summer,Men,1399,4.5,images/fashion/beige_chinos.png
+29,Black Cargo Pants,Cargo,Bottom,Black,Streetwear,College,All,Unisex,1499,4.6,images/fashion/black_cargo.png
+30,Olive Cargo Pants,Cargo,Bottom,Olive,Streetwear,College,All,Unisex,1599,4.5,images/fashion/olive_cargo.png
+31,Grey Joggers,Joggers,Bottom,Grey,Sports,Sports,All,Unisex,999,4.4,images/fashion/grey_joggers.png
+32,Black Track Pants,Track Pants,Bottom,Black,Sports,Sports,All,Unisex,1099,4.5,images/fashion/black_trackpants.png
+33,White Pleated Skirt,Skirt,Bottom,White,Casual,College,Summer,Women,1199,4.4,images/fashion/white_skirt.png
+34,Black Pleated Skirt,Skirt,Bottom,Black,Party,Party,All,Women,1299,4.5,images/fashion/black_skirt.png
+35,Blue Denim Skirt,Skirt,Bottom,Blue,Casual,College,Summer,Women,1099,4.3,images/fashion/denim_skirt.png
+36,Black Evening Dress,Dress,One Piece,Black,Party,Party,All,Women,2499,4.8,images/fashion/black_evening_dress.png
+37,Red Party Dress,Dress,One Piece,Red,Party,Party,All,Women,2299,4.7,images/fashion/red_party_dress.png
+38,White Summer Dress,Dress,One Piece,White,Casual,Vacation,Summer,Women,1799,4.5,images/fashion/white_summer_dress.png
+39,Blue Casual Dress,Dress,One Piece,Blue,Casual,College,Summer,Women,1599,4.4,images/fashion/blue_casual_dress.png
+40,Green Midi Dress,Dress,One Piece,Green,Casual,Party,All,Women,1999,4.5,images/fashion/green_midi_dress.png
+41,Navy Office Dress,Dress,One Piece,Navy,Formal,Office,All,Women,2199,4.6,images/fashion/navy_office_dress.png
+42,White Sneakers,Sneakers,Footwear,White,Casual,College,All,Unisex,1999,4.7,images/fashion/white_sneakers.png
+43,Black Sneakers,Sneakers,Footwear,Black,Casual,College,All,Unisex,1899,4.6,images/fashion/black_sneakers.png
+44,Grey Running Shoes,Sports Shoes,Footwear,Grey,Sports,Sports,All,Unisex,2199,4.6,images/fashion/grey_running.png
+45,Black Sports Shoes,Sports Shoes,Footwear,Black,Sports,Sports,All,Unisex,2099,4.5,images/fashion/black_sports.png
+46,Brown Formal Shoes,Formal Shoes,Footwear,Brown,Formal,Office,All,Men,2499,4.7,images/fashion/brown_formal.png
+47,Black Formal Shoes,Formal Shoes,Footwear,Black,Formal,Office,All,Men,2599,4.8,images/fashion/black_formal.png
+48,White Casual Loafers,Loafers,Footwear,White,Casual,Office,Summer,Unisex,2299,4.5,images/fashion/white_loafers.png
+49,Black Loafers,Loafers,Footwear,Black,Formal,Office,All,Men,2399,4.6,images/fashion/black_loafers.png
+50,Black Heels,Heels,Footwear,Black,Party,Party,All,Women,1999,4.6,images/fashion/black_heels.png
+51,Beige Flats,Flats,Footwear,Beige,Casual,College,Summer,Women,1299,4.4,images/fashion/beige_flats.png
+52,White Canvas Shoes,Canvas,Footwear,White,Casual,College,All,Unisex,1199,4.4,images/fashion/white_canvas.png
+53,Classic Black Watch,Watch,Accessory,Black,Formal,Office,All,Unisex,899,4.5,images/fashion/black_watch.png
+54,Brown Leather Watch,Watch,Accessory,Brown,Formal,Office,All,Men,1099,4.6,images/fashion/brown_watch.png
+55,Silver Minimal Watch,Watch,Accessory,Silver,Formal,Party,All,Unisex,1299,4.7,images/fashion/silver_watch.png
+56,Black Backpack,Bag,Accessory,Black,Casual,College,All,Unisex,999,4.6,images/fashion/black_backpack.png
+57,Beige Tote Bag,Bag,Accessory,Beige,Casual,College,All,Women,1199,4.5,images/fashion/beige_tote.png
+58,Black Crossbody Bag,Bag,Accessory,Black,Party,Party,All,Women,1399,4.6,images/fashion/black_crossbody.png
+59,Brown Belt,Belt,Accessory,Brown,Formal,Office,All,Men,599,4.4,images/fashion/brown_belt.png
+60,Black Belt,Belt,Accessory,Black,Formal,Office,All,Unisex,599,4.5,images/fashion/black_belt.png
+61,Black Sunglasses,Sunglasses,Accessory,Black,Casual,Vacation,Summer,Unisex,799,4.5,images/fashion/black_sunglasses.png
+62,Brown Sunglasses,Sunglasses,Accessory,Brown,Casual,Vacation,Summer,Unisex,899,4.4,images/fashion/brown_sunglasses.png
+63,Green Polo T-Shirt,Polo,Top,Green,Casual,College,Summer,Men,899,4.4,images/fashion/green_polo.png
+64,Maroon T-Shirt,T-Shirt,Top,Maroon,Casual,Party,All,Unisex,699,4.3,images/fashion/maroon_tshirt.png
+65,Lavender T-Shirt,T-Shirt,Top,Lavender,Casual,College,Summer,Women,649,4.5,images/fashion/lavender_tshirt.png
+66,Cream Knit Sweater,Sweater,Top,Cream,Casual,College,Winter,Unisex,1599,4.6,images/fashion/cream_sweater.png
+67,Navy Blazer,Blazer,Outerwear,Navy,Formal,Office,All,Men,2999,4.8,images/fashion/navy_blazer.png
+68,Black Blazer,Blazer,Outerwear,Black,Formal,Office,All,Unisex,3199,4.8,images/fashion/black_blazer.png
+69,Khaki Chinos,Chinos,Bottom,Khaki,Casual,Office,Summer,Men,1399,4.5,images/fashion/khaki_chinos.png
+70,White Trousers,Trousers,Bottom,White,Formal,Office,Summer,Women,1599,4.5,images/fashion/white_trousers.png
+71,Navy Skirt,Skirt,Bottom,Navy,Formal,Office,All,Women,1399,4.5,images/fashion/navy_skirt.png
+72,Black Wide-Leg Trousers,Trousers,Bottom,Black,Formal,Office,All,Women,1699,4.6,images/fashion/black_wideleg.png
+73,Brown Casual Sneakers,Sneakers,Footwear,Brown,Casual,College,All,Unisex,1799,4.4,images/fashion/brown_sneakers.png
+74,Navy Sneakers,Sneakers,Footwear,Navy,Casual,College,All,Unisex,1899,4.5,images/fashion/navy_sneakers.png
+75,Tan Loafers,Loafers,Footwear,Tan,Formal,Office,Summer,Men,2299,4.5,images/fashion/tan_loafers.png
+76,Silver Bracelet,Bracelet,Accessory,Silver,Party,Party,All,Unisex,699,4.3,images/fashion/silver_bracelet.png
+77,Black Cap,Cap,Accessory,Black,Casual,College,Summer,Unisex,499,4.4,images/fashion/black_cap.png
+78,White Cap,Cap,Accessory,White,Casual,Sports,Summer,Unisex,499,4.3,images/fashion/white_cap.png
+79,Black Wallet,Wallet,Accessory,Black,Formal,Office,All,Men,799,4.5,images/fashion/black_wallet.png
+80,Beige Scarf,Scarf,Accessory,Beige,Casual,Vacation,Winter,Women,699,4.4,images/fashion/beige_scarf.png
